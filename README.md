@@ -1,6 +1,6 @@
 # DigitalMate: Your Gateway to Digital Excellence 🚀
 
-![DigitalMate Logo](https://digitalmate.online/assets/imgs/digitalmate-logo.png)
+![DigitalMate Logo](https://avatars.githubusercontent.com/u/149370085?v=4)
 
 Welcome to **DigitalMate**, a beacon of digital marketing expertise dedicated to propelling businesses into the digital forefront. Our agency thrives on innovation, creativity, and a deep-seated commitment to our clients' success. At DigitalMate, we blend cutting-edge strategies with a tailored approach to ensure your brand not only stands out but soars high in the digital realm.
 
