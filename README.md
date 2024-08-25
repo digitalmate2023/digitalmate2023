@@ -36,7 +36,7 @@ Are you ready to elevate your digital presence and achieve unparalleled success?
 
 ---
 
-![Our Services](https://digitalmate.online/breadcrumb-bg.6e090265164a5c4a.jpg)
+![Our Services](https://api.digitalmate.online/storage/services/Web-and-Mobile-Development.webp)
 
 *Let DigitalMate be the wind beneath your digital wings. Reach out today and watch your business soar!*
 
