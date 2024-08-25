@@ -1,6 +1,6 @@
 # DigitalMate: Your Gateway to Digital Excellence 🚀
 
-![DigitalMate Logo](68747470733a2f2f61646d696e2e6469676974616c6d6174652e6f6e6c696e652f73746f726167652f746f702d616476616e74616765732d616e642d646973616476616e74616765732d6f662d7573696e672d736f6369616c2d6d656469612d696e2d6469676974616c2d6d61726b6574696e672d696e2d323032332d313639363138303833357672397a432e77656270)
+![DigitalMate Logo](https://api.digitalmate.online/storage/Logo/digitalmate-logo-rident.webp)
 
 Welcome to **DigitalMate**, a beacon of digital marketing expertise dedicated to propelling businesses into the digital forefront. Our agency thrives on innovation, creativity, and a deep-seated commitment to our clients' success. At DigitalMate, we blend cutting-edge strategies with a tailored approach to ensure your brand not only stands out but soars high in the digital realm.
 
